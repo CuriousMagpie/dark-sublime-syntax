@@ -6,4 +6,4 @@ It's a dark theme, but with less contrast so it's slightly easier on the eyes.
 
 Best used with [Victor Mono](https://rubjo.github.io/victor-mono/).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://github.com/CuriousMagpie/dark-sublime-syntax/blob/e4663c3b413e7c74777493ecc7b83c8bbe469da3/javascript-example.png?raw=true)
