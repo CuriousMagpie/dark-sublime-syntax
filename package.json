@@ -1,7 +1,7 @@
 {
   "name": "dark-sublime-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A mashup of rubjo's VS Studio Ultimate Dark Neo and odahcam's Atom Sublime Monokai Syntax themes.",
   "keywords": [
     "syntax",
